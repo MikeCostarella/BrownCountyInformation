@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Brown County (Official Site)", category: "Government", subcategory: "County", url: "https://www.browncountyohio.gov/", description: "Official government portal for Brown County Ohio." },
